@@ -8,7 +8,8 @@
 /* Body Styles */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #f4f7fa, #e1e8f0);
+    background: linear-gradient(to right, #ff7e5f, #feb47b, #6a11cb);
+
     color: #333;
     line-height: 1.8;
 }
@@ -18,7 +19,7 @@ body {
 
 /* Header Styles */
 header {
-    background: linear-gradient(135deg, #FFC107, #FF9800); /* Darker yellow to orange gradient */
+    background: linear-gradient(135deg, #d6720f, #FF9800); /* Darker yellow to orange gradient */
     padding: 1.2rem 0;
     box-shadow: none; /* Removed box-shadow */
     position: relative;
